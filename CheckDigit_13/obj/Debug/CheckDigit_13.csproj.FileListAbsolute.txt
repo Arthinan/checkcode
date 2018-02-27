@@ -1,0 +1,10 @@
+C:\Users\TEEN\Desktop\CheckDigit_13\CheckDigit_13\bin\Debug\CheckDigit_13.exe.config
+C:\Users\TEEN\Desktop\CheckDigit_13\CheckDigit_13\bin\Debug\CheckDigit_13.exe
+C:\Users\TEEN\Desktop\CheckDigit_13\CheckDigit_13\bin\Debug\CheckDigit_13.pdb
+C:\Users\TEEN\Desktop\CheckDigit_13\CheckDigit_13\obj\Debug\CheckDigit_13.Form1.resources
+C:\Users\TEEN\Desktop\CheckDigit_13\CheckDigit_13\obj\Debug\CheckDigit_13.Properties.Resources.resources
+C:\Users\TEEN\Desktop\CheckDigit_13\CheckDigit_13\obj\Debug\CheckDigit_13.csproj.GenerateResource.Cache
+C:\Users\TEEN\Desktop\CheckDigit_13\CheckDigit_13\obj\Debug\CheckDigit_13.csproj.CoreCompileInputs.cache
+C:\Users\TEEN\Desktop\CheckDigit_13\CheckDigit_13\obj\Debug\CheckDigit_13.exe
+C:\Users\TEEN\Desktop\CheckDigit_13\CheckDigit_13\obj\Debug\CheckDigit_13.pdb
+C:\Users\TEEN\Desktop\CheckDigit_13\CheckDigit_13\obj\Debug\CheckDigit_13.csprojResolveAssemblyReference.cache
